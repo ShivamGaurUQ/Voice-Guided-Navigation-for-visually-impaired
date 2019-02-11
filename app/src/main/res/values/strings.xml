@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Voice_Guided_Navigation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="speech_prompt">Speech_Prompt</string>
+    <string name="speech_not_supported">Speech_Not_Supported</string>
+    <string name="your_api_key">YAK</string>
+</resources>
