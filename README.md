@@ -10,7 +10,7 @@ The project is based on the needs of unsighted ones while it can operated by oth
 also. The project not only provides an easy to access UI for blind ones but a great way to
 reach nearby places accurately. 
 
-Features:
+# Features:
 
 Availability of nearest destination: This will enable the user to locate the nearest
 store (destination) for which the user wishes for.
