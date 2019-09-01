@@ -15,10 +15,10 @@ reach nearby places accurately.
 Availability of nearest destination: This will enable the user to locate the nearest
 store (destination) for which the user wishes for.
 
-1.Tracing the shortest and feasible path to destination: This will enable the user to
+1. Tracing the shortest and feasible path to destination: This will enable the user to
 know the shortest path available to the destination where he/she wants to reach.
 
-2.Navigating till the destination: The voice guided navigation system will facilitate
+2. Navigating till the destination: The voice guided navigation system will facilitate
 the end user to navigate to the desired place and will notify them on upcoming turns,
 circles, etc. with a precise distance.
 
