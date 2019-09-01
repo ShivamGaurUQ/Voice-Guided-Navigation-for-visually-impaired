@@ -27,5 +27,5 @@ some gestures (like wave, sliding up, double tap) on home screen itself.
 This android application runs on modern smart phones that are compatible
 with android Lollipop (API level 22) or lower.
 
-For more detailed information refer to Poster.pdf and Iverview.pdf 
+For more detailed information refer to Poster.pdf and Overview.pdf 
 
