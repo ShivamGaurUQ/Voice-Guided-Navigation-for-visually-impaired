@@ -14,14 +14,18 @@ reach nearby places accurately.
 
 Availability of nearest destination: This will enable the user to locate the nearest
 store (destination) for which the user wishes for.
- Tracing the shortest and feasible path to destination: This will enable the user to
+
+1.Tracing the shortest and feasible path to destination: This will enable the user to
 know the shortest path available to the destination where he/she wants to reach.
- Navigating till the destination: The voice guided navigation system will facilitate
+
+2.Navigating till the destination: The voice guided navigation system will facilitate
 the end user to navigate to the desired place and will notify them on upcoming turns,
 circles, etc. with a precise distance.
- Voice Input: This feature will enable blind people to provide desired destination by
+
+3. Voice Input: This feature will enable blind people to provide desired destination by
 the voice guided input.
- Smart app gestures: This feature will enable the user to launch the app through
+
+4. Smart app gestures: This feature will enable the user to launch the app through
 some gestures (like wave, sliding up, double tap) on home screen itself.
 
 This android application runs on modern smart phones that are compatible
@@ -66,22 +70,22 @@ The module allows the user to open the application by simply double tapping on t
 screen of the device once the device shake has been detected.
 
 How it works?
-▪ Once the application is installed in the android device, the device requires a
+1. Once the application is installed in the android device, the device requires a
 reboot.
-▪ Once the reboot completes, the application starts listening to gesture events made by
+2. Once the reboot completes, the application starts listening to gesture events made by
 the user and the accelerometer starts listening to the shake event.
-▪ Once the device is shaken, a notification is generated alerting the user to tap on the
+3. Once the device is shaken, a notification is generated alerting the user to tap on the
 screen in order to open the app.
-▪ When the user taps twice on the screen, the double tap gesture is recognised and a
+4. When the user taps twice on the screen, the double tap gesture is recognised and a
 response is generated.
 The response is in the form of the execution of the app with the main activity being displayed on
 the screen to start navigation.
 
 This whole process of generating of a response when the screen is tapped twice after motion
 detection after the device reboot consists of the following three steps:
-▪ Generation of broadcast message by the system on reboot after device shake.
-▪ A notification to alert the user.
-▪ Gesture detection
+1. Generation of broadcast message by the system on reboot after device shake.
+2. A notification to alert the user.
+3. Gesture detection
 
 #   2.1.   Broadcast message generation on reboot
 
@@ -128,8 +132,8 @@ The code is written in MainActivity.java.
 
 The code is written in GestureDetect.java file which extends the Activity class and
 implements the following interfaces:
-▪ GestureDetector.OnGestureListener
-▪ GestureDetector.OnDoubleTapListener
+1. GestureDetector.OnGestureListener
+2. GestureDetector.OnDoubleTapListener
 
 
 #  3. Smart Stick with sensor
