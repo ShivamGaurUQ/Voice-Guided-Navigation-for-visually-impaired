@@ -30,6 +30,9 @@ with android Lollipop (API level 22) or lower.
 For more detailed information refer to Poster.pdf and Overview.pdf 
 
 # Overview
+
+For more detailed information refer to Poster.pdf and Overview.pdf 
+
 All the source code files are available in the directory:
 
 Voice_Guided_Navigation/app/src/main/java/com/example/shivam_gaur/voice_guided_navigation/
