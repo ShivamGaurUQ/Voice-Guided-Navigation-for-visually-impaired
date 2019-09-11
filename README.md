@@ -74,9 +74,10 @@ How it works?
 reboot.
 2. Once the reboot completes, the application starts listening to gesture events made by the user and the accelerometer starts listening to the shake event.
 3. Once the device is shaken, a notification is generated alerting the user to tap on the screen in order to open the app.
-
-<img src="images/img1.png" width =300>
+<p align="center"
+<img src="images/img1.png" width ="300">
 <img src="images/img2.png" width=300>
+</p>
 4. When the user taps twice on the screen, the double tap gesture is recognised and a
 response is generated.
 The response is in the form of the execution of the app with the main activity being displayed on
