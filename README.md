@@ -187,6 +187,6 @@ These API will provide turn by turn voice output to its user.
 
 # 8. Dependencies
 
-1. Requires latest version of Android Studio generate apk.
+1. Requires latest version of Android Studio to generate apk.
 2. JDK 8 or above required.
 
