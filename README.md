@@ -181,3 +181,7 @@ These API will provide turn by turn voice output to its user.
 
 ![](images/img8.png)
 
+# 7. Class Diagram
+
+![](images/img9.png)
+
