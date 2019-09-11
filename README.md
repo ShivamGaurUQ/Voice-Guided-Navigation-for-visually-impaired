@@ -80,8 +80,7 @@ reboot.
 <img src="images/img2.png" width="300">
 </p>
 4. When the user taps twice on the screen, the double tap gesture is recognised and a
-response is generated.
-The response is in the form of the execution of the app with the main activity being displayed on
+response is generated. The response is in the form of the execution of the app with the main activity being displayed on
 the screen to start navigation.
 
 This whole process of generating of a response when the screen is tapped twice after motion
@@ -118,6 +117,8 @@ Intent object parameter.
 
 Registering Broadcast Receiver: An application listens for specific broadcast intents by
 registering a broadcast receiver in AndroidManifest.xml file.
+
+![](images/img3.png)
 
 
 #   2.2.    A notification to alert the user
