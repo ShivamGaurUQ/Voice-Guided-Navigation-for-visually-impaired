@@ -1,4 +1,4 @@
-# Voice_Guided_Navigation
+# Voice_Guided_Navigation (Android application)
 
 
 This project is aimed at locating nearby places such as hospitals, medical stores,
