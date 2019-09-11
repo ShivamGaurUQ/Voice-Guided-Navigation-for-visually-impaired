@@ -77,7 +77,7 @@ reboot.
 <p align="center"
 <img src="images/img1.png" width ="300">
 <img src="images/img1.png" width ="300">
-<img src="images/img2.png" width="250">
+<img src="images/img2.png" width="300">
 </p>
 4. When the user taps twice on the screen, the double tap gesture is recognised and a
 response is generated.
