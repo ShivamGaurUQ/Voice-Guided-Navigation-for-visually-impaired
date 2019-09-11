@@ -90,7 +90,7 @@ detection after the device reboot consists of the following three steps:
 2. A notification to alert the user.
 3. Gesture detection
 
-##   2.1.   Broadcast message generation on reboot
+## 2.1. Broadcast message generation on reboot
 
 Accelerometer- An accelerometer is a sensor which measures the tilting motion and
 orientation of a mobile phone.
@@ -122,7 +122,7 @@ registering a broadcast receiver in AndroidManifest.xml file.
 ![](images/img3.png)
 
 
-##   2.2.    A notification to alert the user
+## 2.2. A notification to alert the user
 
 Once the application is ready to be opened after the reboot, a notification is generated to let
 him/her know that he/she can now double tap on the screen to open the app.
@@ -133,7 +133,7 @@ NotificationManager class is used which can be received from the context like an
 via the getSystemService() method.
 The code is written in MainActivity.java.
 
-##   2.3.     Gesture Detection
+## 2.3. Gesture Detection
 
 The code is written in GestureDetect.java file which extends the Activity class and
 implements the following interfaces:
@@ -141,7 +141,7 @@ implements the following interfaces:
 2. GestureDetector.OnDoubleTapListener
 
 
-#  3. Smart Stick with sensor
+# 3. Smart Stick with sensor
 
 The smart stick is the blind stick used by visually impaired people. The stick is equipped with
 a sensor and a buzzer and alerts the user whenever he/she approaches the obstacle.
@@ -162,7 +162,7 @@ Method: Supply module with 5V, the output will be 5V while obstacle in range, or
 The out pin of this module is used as a switching output when anti-theft module, and
 without the feet when ranging modules.
 
-#   4. Speech-To-Text Module
+# 4. Speech-To-Text Module
 
 This helps the user to enter value of destination through his own voice. This Module
 comprises of Google speech to Text API which works on deep learning method
@@ -171,13 +171,13 @@ the vanishing gradient problem and can learn "Very Deep Learning" tasks that req
 memories of events that happened thousands of discrete time steps ago, which is
 important for speech.
 
-# 5.    Directional APIs
+# 5. Directional APIs
 
 This module will navigate user from source till destination along with shortest possible path.
 These API will provide turn by turn voice output to its user.
 
 
+# 6. Activity Diagram
 
-
-
+![](images/img8.png)
 
