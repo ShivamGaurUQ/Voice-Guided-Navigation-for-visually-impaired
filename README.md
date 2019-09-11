@@ -185,3 +185,8 @@ These API will provide turn by turn voice output to its user.
 
 ![](images/img9.png)
 
+# 8. Dependencies
+
+1. Requires latest version of Android Studio generate apk.
+2. JDK 8 or above required.
+
