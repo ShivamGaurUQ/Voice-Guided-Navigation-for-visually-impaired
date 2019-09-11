@@ -152,6 +152,11 @@ selection.
 3. RMG 12075dc5v 30mA Active Electromagnetic Buzzers
 4. HC-SR04 ultrasonic module distance measuring transducer sensor, uses sonar to
 determine distance to an object.
+<p align="center"
+<img src="images/img6.png" width ="300">
+<img src="images/img6.png" width ="300">
+<img src="images/img7.png" width="300">
+</p>
 
 Method: Supply module with 5V, the output will be 5V while obstacle in range, or 0V if not.
 The out pin of this module is used as a switching output when anti-theft module, and
