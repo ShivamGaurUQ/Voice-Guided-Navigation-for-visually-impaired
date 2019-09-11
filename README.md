@@ -32,6 +32,7 @@ This android application runs on modern smart phones that are compatible
 with android Lollipop (API level 22) or lower.
 
 For more detailed information refer to Poster.pdf and Overview.pdf 
+![](images/img5.png)
 
 # Overview
 
