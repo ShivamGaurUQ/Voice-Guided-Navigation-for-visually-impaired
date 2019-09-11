@@ -90,7 +90,7 @@ detection after the device reboot consists of the following three steps:
 2. A notification to alert the user.
 3. Gesture detection
 
-#   2.1.   Broadcast message generation on reboot
+##   2.1.   Broadcast message generation on reboot
 
 Accelerometer- An accelerometer is a sensor which measures the tilting motion and
 orientation of a mobile phone.
@@ -122,7 +122,7 @@ registering a broadcast receiver in AndroidManifest.xml file.
 ![](images/img3.png)
 
 
-#   2.2.    A notification to alert the user
+##   2.2.    A notification to alert the user
 
 Once the application is ready to be opened after the reboot, a notification is generated to let
 him/her know that he/she can now double tap on the screen to open the app.
@@ -133,7 +133,7 @@ NotificationManager class is used which can be received from the context like an
 via the getSystemService() method.
 The code is written in MainActivity.java.
 
-#   2.3.     Gesture Detection
+##   2.3.     Gesture Detection
 
 The code is written in GestureDetect.java file which extends the Activity class and
 implements the following interfaces:
